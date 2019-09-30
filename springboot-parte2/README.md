@@ -10,7 +10,7 @@ Na aula, foram desenvolvidos os seguintes passos:
 * Identificar e visualizar o Auto Configuration do Spring MVC
 * Visualizar a dependência e fluxo do Auto Configuration no projeto
 
-O projeto consta com todos os passos desenvolvidos acima
+O projeto consta com todos os passos desenvolvidos acima.
 
 Para executar o projeto no terminal, digite o seguinte comando:
 

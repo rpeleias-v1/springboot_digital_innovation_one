@@ -11,7 +11,7 @@ Na aula, foram desenvolvidos os seguintes passos:
 * Adicionar a classe HelloController e o método hello()
 * Executar o projeto através do terminal
 
-O projeto consta com todos os passos desenvolvidos acima
+O projeto consta com todos os passos desenvolvidos acima.
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
