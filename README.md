@@ -7,7 +7,7 @@ Durante a aula, foram avordamos os seguintes Tópicos:
 
 * Introdução ao Spring Boot
 * O que é e como funciona o Auto Configuration
-* O que são fatJar/uberJar e
+* O que são fatJar/uberJar
 
 Os exercícios dentro deste projeto contemplam cada um dos tópicos acima, respectivamente.
 
