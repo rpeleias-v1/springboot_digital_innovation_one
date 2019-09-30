@@ -1,0 +1,119 @@
+30-Sep-2019 19:22:13.306 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.26
+30-Sep-2019 19:22:13.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 16 2019 15:51:39 UTC
+30-Sep-2019 19:22:13.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.26.0
+30-Sep-2019 19:22:13.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.6
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:22:13.311 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:22:13.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/conf/logging.properties
+30-Sep-2019 19:22:13.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/temp
+30-Sep-2019 19:22:13.318 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/rpeleias/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+30-Sep-2019 19:22:13.650 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:22:13.688 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:22:13.690 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [601] milliseconds
+30-Sep-2019 19:22:13.721 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Sep-2019 19:22:13.721 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.26]
+30-Sep-2019 19:22:13.743 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot-0.0.1-SNAPSHOT.war]
+30-Sep-2019 19:22:15.571 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Sep-2019 19:22:15.604 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot-0.0.1-SNAPSHOT.war] has finished in [1,861] ms
+30-Sep-2019 19:22:15.605 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/docs]
+30-Sep-2019 19:22:15.621 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/docs] has finished in [16] ms
+30-Sep-2019 19:22:15.622 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/manager]
+30-Sep-2019 19:22:15.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/manager] has finished in [32] ms
+30-Sep-2019 19:22:15.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/examples]
+30-Sep-2019 19:22:15.839 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/examples] has finished in [186] ms
+30-Sep-2019 19:22:15.839 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/ROOT]
+30-Sep-2019 19:22:15.850 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/ROOT] has finished in [11] ms
+30-Sep-2019 19:22:15.850 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/host-manager]
+30-Sep-2019 19:22:15.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/host-manager] has finished in [15] ms
+30-Sep-2019 19:22:15.869 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:22:15.876 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:22:15.877 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2,186] milliseconds
+30-Sep-2019 19:35:35.906 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Sep-2019 19:35:35.907 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:35:35.919 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:35:35.927 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Sep-2019 19:35:35.992 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:35:35.996 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:35:35.998 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:35:35.999 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:36:25.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.26
+30-Sep-2019 19:36:25.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 16 2019 15:51:39 UTC
+30-Sep-2019 19:36:25.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.26.0
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.6
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_191-b12
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:36:25.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:36:25.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/conf/logging.properties
+30-Sep-2019 19:36:25.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Sep-2019 19:36:25.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Sep-2019 19:36:25.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Sep-2019 19:36:25.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+30-Sep-2019 19:36:25.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Sep-2019 19:36:25.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:36:25.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26
+30-Sep-2019 19:36:25.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/temp
+30-Sep-2019 19:36:25.910 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/rpeleias/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+30-Sep-2019 19:36:26.172 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:36:26.198 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:36:26.200 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [473] milliseconds
+30-Sep-2019 19:36:26.223 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Sep-2019 19:36:26.223 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.26]
+30-Sep-2019 19:36:26.239 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot.war]
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.8.RELEASE)
+
+2019-09-30 19:36:28.659  INFO 98066 --- [           main] c.d.springboot.SpringbootApplication     : Starting SpringbootApplication v0.0.1-SNAPSHOT on CLICKBUS0434.local with PID 98066 (/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot/WEB-INF/classes started by rpeleias in /Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/bin)
+2019-09-30 19:36:28.664  INFO 98066 --- [           main] c.d.springboot.SpringbootApplication     : No active profile set, falling back to default profiles: default
+2019-09-30 19:36:29.770  INFO 98066 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1059 ms
+2019-09-30 19:36:30.329  INFO 98066 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-30 19:36:30.606  INFO 98066 --- [           main] c.d.springboot.SpringbootApplication     : Started SpringbootApplication in 2.643 seconds (JVM running for 5.152)
+30-Sep-2019 19:36:30.698 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Sep-2019 19:36:30.741 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot.war] has finished in [4,502] ms
+30-Sep-2019 19:36:30.743 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot-0.0.1-SNAPSHOT.war]
+30-Sep-2019 19:36:32.285 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+30-Sep-2019 19:36:32.289 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/springboot-0.0.1-SNAPSHOT.war] has finished in [1,546] ms
+30-Sep-2019 19:36:32.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/docs]
+30-Sep-2019 19:36:32.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/docs] has finished in [14] ms
+30-Sep-2019 19:36:32.304 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/manager]
+30-Sep-2019 19:36:32.326 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/manager] has finished in [22] ms
+30-Sep-2019 19:36:32.326 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/examples]
+30-Sep-2019 19:36:32.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/examples] has finished in [190] ms
+30-Sep-2019 19:36:32.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/ROOT]
+30-Sep-2019 19:36:32.532 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/ROOT] has finished in [16] ms
+30-Sep-2019 19:36:32.533 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/host-manager]
+30-Sep-2019 19:36:32.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/rpeleias/Development/slackDay/digitaoinnovationone/springboot-parte3/apache-tomcat-9.0.26/webapps/host-manager] has finished in [16] ms
+30-Sep-2019 19:36:32.552 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:36:32.559 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:36:32.561 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6,361] milliseconds
+2019-09-30 19:36:58.067  INFO 98066 --- [io-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-30 19:36:58.077  INFO 98066 --- [io-8080-exec-10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+30-Sep-2019 19:37:39.955 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+30-Sep-2019 19:37:39.956 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:37:39.966 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:37:39.973 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+30-Sep-2019 19:37:40.010 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:37:40.012 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+30-Sep-2019 19:37:40.014 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+30-Sep-2019 19:37:40.015 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
