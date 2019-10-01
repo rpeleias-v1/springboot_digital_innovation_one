@@ -3,7 +3,7 @@
 
 Nesta aula explicamos e detalhamos sobre o que é e como funciona o Spring Boot.
 
-Durante a aula, foram avordamos os seguintes Tópicos:
+Durante a aula, são abordados os seguintes tópicos:
 
 * Introdução ao Spring Boot
 * O que é e como funciona o Auto Configuration
