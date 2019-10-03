@@ -11,6 +11,13 @@ Durante a aula, são abordados os seguintes tópicos:
 
 Os exercícios dentro deste projeto contemplam cada um dos tópicos acima, respectivamente.
 
-Dentro de cada uma das pastas, constam as instruçoes de como executar cada um dos projetos.
+Dentro de cada uma das pastas, constam as instruções de como executar cada um dos projetos.
+
+São necessários os seguintes pré-requisitos para a execução dos projetos da aula:
+
+* Java 8 ou versões superiores.
+* Maven 3.5.2 ou versões superiores.
+* Intellj IDEA Community Edition ou sua IDE favorita.
+* Muita vontade de aprender e compartilhar conhecimento :)
 
 
